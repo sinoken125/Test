@@ -131,11 +131,13 @@
     <ClCompile Include="InputKey.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="SettingDxLib.cpp" />
+    <ClCompile Include="System.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Define.h" />
     <ClInclude Include="InputKey.h" />
     <ClInclude Include="SettingDxLib.h" />
+    <ClInclude Include="System.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
